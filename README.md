@@ -48,11 +48,11 @@ $ python run.py
   <br>
   <p>
 
-### When will the followers arrive?
-Followers can arrive in your account in 1 to 10 minutes, and every 30 minutes the credit in the service will be reset.
+### Bagaimana cara mendapatkan cookies?
+Anda bisa pergi ke YouTube untuk cara mendapatkan cookie, atau [***klik disini***](https://chat.whatsapp.com/BS3dMxkQb8NCt77rzhKp6B) untuk mendapatkan cookies
 
 ##
 ```python
-print("Good luck hope it works!")
+print("Selamat menikmati scriptnya")
 ```
 ##
