@@ -1,6 +1,5 @@
 ### BOT FACEBOOK VIA COOKIE
 <div align="center">
-  <img src="Data/FastFollow.jpeg">
   <br>
   <br>
   <p>
