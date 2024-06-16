@@ -32,27 +32,21 @@ $ cd "$HOME/BOTF" && git pul
 $ python run.py
 ```
 
-### Failed to send followers?
-- Maybe the service is being repaired or is undergoing maintenance.
-- There may be no users on the service so it is not possible to exchange followers.
-- Maybe you entered your username incorrectly or your Instagram account is locked.
+### Tampilan Script
+- Script ini belum sepenuhnya sempurna
+- Jadi harap maklum semisal terjadinya bug pada script
+- Kedepannya akan saya maksimal kan lagi, biar pengguna puas dengan script saya 
 
-### How to keep your account safe?
-- The account is equipped with a telephone number and email so that it is not suspected of being a spam account.
-- Change the password after using this tools.
-- Use a fake account or a new account or an unused account to log in to Termux.
+### Login script
+- Cookies only, usahakan menggunakan akun tumbal 
+- Jika anda menggunakan akun pribadi untuk login, jangan salah kan admin jika terjadinya checlpoint pada akun anda
 
-### Why login failed?
-- You can log in manually in the **[https://fastfollow.in](https://fastfollow.in)** service and then log in in Termux again.
-- Your fake account has been deactivated by Instagram or hit by a checkpoint.
-- Maybe you entered your username or password incorrectly.
-- Your fake account password is blocked so you are required to change the password first.
-- Don't use two-factor authentication on fake accounts.
-
-### Why are followers dropping?
-- Maybe the account that follows you has been blocked or disabled by Instagram.
-- They unfollow you on your account.
-- Instagram sees spam activity on your account so they delete followers.
+### Bagi yg mau donasi
+<div align="center">
+  <img src="Data/FastFollow.jpeg">
+  <br>
+  <br>
+  <p>
 
 ### When will the followers arrive?
 Followers can arrive in your account in 1 to 10 minutes, and every 30 minutes the credit in the service will be reset.
