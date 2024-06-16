@@ -33,6 +33,9 @@ $ python run.py
 ```
 
 ### Tampilan Script
+<div align="center">
+  <img src="https://imgtr.ee/images/2024/06/16/aed4196d2c5b72445da29ec9692389f9.jpeg">
+  
 - Script ini belum sepenuhnya sempurna
 - Jadi harap maklum semisal terjadinya bug pada script
 - Kedepannya akan saya maksimal kan lagi, biar pengguna puas dengan script saya 
