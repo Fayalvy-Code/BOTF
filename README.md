@@ -34,7 +34,7 @@ $ python run.py
 
 ### Tampilan Script
 <div align="center">
-  <img src="https://imgtr.ee/images/2024/06/16/aed4196d2c5b72445da29ec9692389f9.jpeg">
+  <img src="https://imgtr.ee/images/2024/06/16/9a08a53519f39b86314e25d9af089c54.jpeg">
   
 - Script ini belum sepenuhnya sempurna
 - Jadi harap maklum semisal terjadinya bug pada script
