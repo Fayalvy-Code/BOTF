@@ -43,7 +43,7 @@ $ python run.py
 
 ### Bagi yg mau donasi
 <div align="center">
-  <img src="Data/FastFollow.jpeg">
+  <img src="https://imgtr.ee/images/2024/06/16/aed4196d2c5b72445da29ec9692389f9.jpeg">
   <br>
   <br>
   <p>
